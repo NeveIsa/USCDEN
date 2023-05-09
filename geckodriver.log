@@ -15859,3 +15859,127 @@ JavaScript error: , line 0: TypeError: error loading dynamically imported module
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683605257334	geckodriver	INFO	Listening on 127.0.0.1:34699
+1683605257358	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemZF5sk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683605257790	Marionette	INFO	Marionette enabled
+1683605257792	Marionette	INFO	Listening on port 33397
+WebDriver BiDi listening on ws://127.0.0.1:53751
+Read port: 33397
+1683605257950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemZF5sk/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53751/devtools/browser/286b395a-ea50-4312-b0ba-137c43f7c6d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683605419975	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1683633039290	geckodriver	INFO	Listening on 127.0.0.1:45697
+1683633039828	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRDpbVL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683633040230	Marionette	INFO	Marionette enabled
+1683633040232	Marionette	INFO	Listening on port 36393
+WebDriver BiDi listening on ws://127.0.0.1:54865
+Read port: 36393
+1683633040425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRDpbVL/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54865/devtools/browser/b8e41d60-8e2d-43df-8864-d0e8847a585c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683633084187	geckodriver	INFO	Listening on 127.0.0.1:34145
+1683633084720	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec9qUbs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683633085115	Marionette	INFO	Marionette enabled
+1683633085117	Marionette	INFO	Listening on port 36465
+Read port: 36465
+WebDriver BiDi listening on ws://127.0.0.1:54113
+1683633085200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec9qUbs/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54113/devtools/browser/c46b1e10-5e38-46fe-952b-fb36eb8657b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683634591201	geckodriver	INFO	Listening on 127.0.0.1:46857
+1683634591741	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFl590w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683634592135	Marionette	INFO	Marionette enabled
+1683634592137	Marionette	INFO	Listening on port 38603
+Read port: 38603
+WebDriver BiDi listening on ws://127.0.0.1:42871
+1683634592222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFl590w/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42871/devtools/browser/9674b465-aecb-4a40-bdee-5e6b0109dcfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://courses.uscden.net."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
